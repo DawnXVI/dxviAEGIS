@@ -29,7 +29,7 @@ const config: QuartzConfig = {
           includeItalic: true,
         },
         body: {
-          name: "Faculty Glyphic",
+          name: "Faculty+Glyphic",
           weights: [400, 700],
           includeItalic: true,
         },
