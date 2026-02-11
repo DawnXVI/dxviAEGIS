@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "dawnxvi.github.io/dxviAEGIS",
+    baseUrl: "https://dawnxvi.github.io/dxviAEGIS/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
