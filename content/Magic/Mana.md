@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-11T03:19:42.000-06:00
-modified: 2026-02-11T02:22:34.466-06:00
+modified: 2026-02-11T12:29:22.533-06:00
 cssclasses: ""
 ---
 
@@ -32,8 +32,11 @@ When low on mana, magic capabilities immediately become limited. Though mana is 
 
 When mana is fully depleted, you are essentially totally defenseless against any magical attacks. You cannot use magic without it becoming unstable, and even the smallest, weakest fireball **will** scar you. Mental and physical fatigue begin  to take their full toll as well when mana is depleted. Poor focus, brain fog, headaches, exhaustion, and body aches are common. Straining the body any further **will** have severe, adverse effects.
 
+***
 ## Replenishing Mana
 
 
+
+***
 ## Alternative Energy?...
 
