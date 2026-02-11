@@ -1,4 +1,11 @@
-# AEGIS
+---
+publish: true
+title: AEGIS
+created: 2026-02-11T01:44:56.465-06:00
+modified: 2026-02-11T02:07:40.236-06:00
+cssclasses: ""
+---
+
 #### An Extremely Generic Isekai Story
 
 Written by DawnX
