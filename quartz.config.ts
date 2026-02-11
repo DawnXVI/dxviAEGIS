@@ -23,8 +23,16 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Metamorphous",
-        body: "Faculty Glyphic",
+        header: {
+          name: "Metamorphous",
+          weights: [400, 700],
+          includeItalic: true,
+        },
+        body: {
+          name: "Faculty Glyphic",
+          weights: [400, 700],
+          includeItalic: true,
+        },
         code: "IBM Plex Mono",
       },
       colors: {
