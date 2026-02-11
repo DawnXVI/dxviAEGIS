@@ -21,10 +21,18 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: false,
+      cdnCaching: true,
       typography: {
-        header: "Metamorphous",
-        body: "Faculty+Glyphic",
+        header: {
+          name: "Metamorphous",
+          weights: [400],
+          includeItalic: true,
+        },
+        body: { 
+          name: "Faculty+Glyphic",
+          weights: [400],
+          includeItalic: true,
+        },
         code: "IBM Plex Mono",
       },
       colors: {
