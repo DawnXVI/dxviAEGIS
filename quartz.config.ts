@@ -26,12 +26,12 @@ const config: QuartzConfig = {
         header: {
           name: "Metamorphous",
           weights: [400],
-          includeItalic: true,
+          includeItalic: false,
         },
         body: { 
-          name: "Faculty Glyphic",
+          name: "Faculty+Glyphic",
           weights: [400],
-          includeItalic: true,
+          includeItalic: false,
         },
         code: "IBM Plex Mono",
       },
