@@ -21,7 +21,7 @@ Every magic user has depleted their mana at least once in their life. For a rook
 
 Mana, contrary to what you might believe, is **not** entirely required to use magic. Mana doesn't *bring* magic into existence; it stabilizes it, facilitates the process that gives it a tangible form, and strengthens it to a level at which it has practical use. Mana exists as a natural resource produced by the body because evolution deemed it a safe and convenient intermediate to power the processes that make magic usable. 
 
-Still, mana has a limit, and when this limit is reached, various effects can occur, [[Magic/Magic Illnesses\|some more detrimental than others.]]
+Still, mana has a limit, and when this limit is reached, various effects can occur, [[Magic Illnesses\|some more detrimental than others.]]
 
 When low on mana, magic capabilities immediately become limited. Though mana is not required for physical exertion, being low on mana will still cause mental and even physical fatigue. Attempting to use magic at any complex level while low on mana can cause it to become unstable, and it can even **backfire** on the user if they aren't careful. 
 
