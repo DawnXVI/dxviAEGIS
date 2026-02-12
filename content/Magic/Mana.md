@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-02-11T03:19:42.000-06:00
-modified: 2026-02-11T12:29:22.533-06:00
+modified: 2026-02-12T03:25:45.207-06:00
 cssclasses: ""
 ---
 
 The energy that facilitates the use of  magic. No spell can be cast reliably without it.
 
 ***
-
 ## Overview
 
 Mana is a natural energy required to harness the power of magic. It is produced and stored within the [manachondria](Manachondria). Any usage of magic will expend mana, and the mana drain itself depends on what exactly you're trying to do. Conjuring a faint spark to light a candle? Simple, easy; low mana cost. Repairing a severe, gaping wound that would otherwise require emergency surgery? Dangerous, incredibly difficult, requires the utmost precision and concentration; high mana cost.
