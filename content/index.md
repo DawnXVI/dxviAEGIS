@@ -1,8 +1,8 @@
 ---
 publish: true
 title: An Extremely Generic Isekai Story
-created: 2026-02-11T01:44:56.465-06:00
-modified: 2026-02-11T04:45:39.704-06:00
+created: 2026-02-12T10:51:38.000-06:00
+modified: 2026-02-12T12:53:56.885-06:00
 cssclasses: ""
 ---
 
