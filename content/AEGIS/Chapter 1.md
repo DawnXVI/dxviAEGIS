@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T03:39:51.398-06:00
-modified: 2026-02-12T04:41:46.239-06:00
+modified: 2026-02-12T04:47:24.545-06:00
 cssclasses: ""
 ---
 
@@ -73,7 +73,7 @@ He slams his right fist on one of his throne's armrests.
 
 “I will **NOT** be the king who sits idly by while a demon exists among his people with every intention of *feasting* upon their ***souls***,” he declares, his words spilling out with an almost chilling finality.
 
-The woman wants to object. She's unsure. 
+Solanna wants to object. She's unsure. 
 
 Unnerved.
 
@@ -89,7 +89,7 @@ Silence falls over the hall for another moment.
 
 "Go on…" says Rodin, raising an eyebrow.
 
-The woman raises her head once more, this time fully making eye contact with Rodin.
+Solanna raises her head once more, this time fully making eye contact with Rodin.
 
 “Gumera Cavern was sealed off centuries ago, during the war. Why the sudden decision to reopen it? It's, by all accounts, nothing but a large, empty space. Nothing of worth... No valuable ore... nothing more than a home to ravenous beasts."
 
@@ -109,7 +109,7 @@ He takes a deep breath and crosses his arms.
 
 “Based on this information, I’ve made the decision to have the cave unsealed and cleared out for good. Better to get rid of the problem before it can become a catastrophe.”
 
-The woman's eyes widen slightly, her own concerns bubbling up to the surface.
+Solanna's eyes widen slightly with realization.
 
 “Ah... So *that* is why you sent Aisha and my sister with them?”
 
