@@ -2,7 +2,7 @@
 publish: true
 title: An Extremely Generic Isekai Story
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-13T03:54:08.895-06:00
+modified: 2026-02-13T05:51:39.804-06:00
 cssclasses: ""
 ---
 
@@ -11,8 +11,9 @@ cssclasses: ""
 ***
 ### February 13th, 2026
 
-- Filled out [[Characters/Tritagonists/Lysandra]]'s character info. ✅
+- Filled out most of [[Characters/Tritagonists/Lysandra]]'s character info. `90% done.`
 - Created the [[Characters/Tritagonists/Tritagonists]] folder.
+- Created the [[SPOILERS/SPOILERS]]folder. `Don't look inside if you're not on the writing team. Unless you want to. I can't really stop you.`
 - Moved [[Characters/Tritagonists/Lysandra]] to [[Characters/Tritagonists/Tritagonists]]. `Could potentially change if we come up with a more important role for her in the story.`
 - Added pages for [[Characters/Tritagonists/Solanna]] and [[Characters/Tritagonists/Leilanna]] under [[Characters/Tritagonists/Tritagonists]].
 
