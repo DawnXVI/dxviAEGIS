@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T22:34:38.000-06:00
-modified: 2026-02-13T04:43:51.822-06:00
+modified: 2026-02-13T04:49:52.123-06:00
 cssclasses: ""
 ---
 
@@ -10,17 +10,14 @@ cssclasses: ""
 
 
 ***
-
-> [!infobox]
->  ###### Info 
->   |  | 
->  ---|---| 
-> Aliases | *The Flower of Loria*
-> Race | *Human*
-> Age | *17*
-> Height | *5'4"*
-> Gender | *Female*
-> Title | *Princess of Loria*
+| INFO    |                       |
+| ------- | --------------------- |
+| Aliases | *The Flower of Loria* |
+| Race    | *Human*               |
+| Age     | *17*                  |
+| Height  | *5'4"*                |
+| Gender  | *Female*              |
+| Title   | *Princess of Loria*                      |
 
 ## Overview
 
@@ -42,3 +39,5 @@ Still, Lysandra dreams of seeing the world beyond Loria. More than anything, she
 ## Personality
 
 Lysandra is a *sweet,* *kind,* *gentle* soul who genuinely values the lives of her subjects. The "Flower of Loria" name comes not just from her beauty, but also the kindness she shows to those around her. She is beloved by the people of Loria, and has already shown herself to be a very capable heiress to the throne.
+
+She is one of the few royals in the world who are very down-to-earth and actively interact with the subjects they rule over. 
