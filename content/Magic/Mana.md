@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T22:34:42.000-06:00
-modified: 2026-02-12T21:46:17.293-06:00
+modified: 2026-02-13T03:41:05.277-06:00
 cssclasses: ""
 ---
 
@@ -10,11 +10,11 @@ The energy that facilitates the use of  magic. No spell can be cast reliably wit
 ***
 ## Overview
 
-Mana is a natural energy required to harness the power of magic. It is produced and stored within the [manachondria](Manachondria). Any usage of magic will expend mana, and the mana drain itself depends on what exactly you're trying to do. Conjuring a faint spark to light a candle? Simple, easy; low mana cost. Repairing a severe, gaping wound that would otherwise require emergency surgery? Dangerous, incredibly difficult, requires the utmost precision and concentration; high mana cost.
+Mana is a natural energy required to harness the power of magic. It is produced and stored within the [[Magic/Manachondria\|manachondria]]. Any usage of magic will expend mana, and the mana drain itself depends on what exactly you're trying to do. Conjuring a faint spark to light a candle? Simple, easy; low mana cost. Repairing a severe, gaping wound that would otherwise require emergency surgery? Dangerous, incredibly difficult, requires the utmost precision and concentration; high mana cost.
 
-All individuals possess some level of mana, even those of races with extremely low [manachondria](Manachondria) counts.
+All individuals possess some level of mana, even those of races with extremely low [[Magic/Manachondria\|manachondria]] counts.
 
-Mana is a **"magical stamina."** Everyone starts off with a low mana capacity at birth, no matter how low their [manachondria](Manachondria) count may be. Mana capacity typically increases naturally and gradually as you reach adulthood, though it can be increased through training and practice.
+Mana is a **"magical stamina."** Everyone starts off with a low mana capacity at birth, no matter how low their [[Magic/Manachondria\|manachondria]] count may be. Mana capacity typically increases naturally and gradually as you reach adulthood, though it can be increased through training and practice.
 
 Mana functions a lot like a muscle. Through regular "exercise," one can increase their mana capacity, improve their magic control, and improve the strength of their magic. However, unlike muscles, there seems to be no limit to how far one can increase their mana. Thus, it is theoretically possible to achieve virtually **infinite** levels of mana, though such a feat would require you to live centuries upon centuries to feasibly achieve it.
 
