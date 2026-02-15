@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-15T00:58:19.607-06:00
+modified: 2026-02-15T00:59:07.032-06:00
 cssclasses: ""
 ---
 
@@ -67,7 +67,7 @@ Nero specializes in manipulating time through *localized time distortions.* Inst
 
 ### Combat Skill
 
-In essentially everything he does, Nero has a strict "hit-n'-run" style. Thus, he doesn't have much real combat skill, and when forced to fight, he won't actually brawl. He'll instead rely on dirty tricks and distractions to win or just escape. He will blind, deafen, disorient and abuse the critical points of his opponents to claim victory. He in fact keeps a pouch of sand attached to his belt at all times to use as a last resort. 
+In essentially everything he does, Nero has a strict "hit-n'-run" style. Thus, he doesn't have much real combat skill, and when forced to fight, he won't actually brawl. He'll instead rely on dirty tricks and distractions to win or just escape. He will blind, deafen, disorient and abuse the critical points of his opponents to claim victory. He even keeps a pouch of sand attached to his belt at all times to use as a last resort. 
 
 ### Agility
 
