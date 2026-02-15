@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-15T00:59:07.032-06:00
+modified: 2026-02-15T01:00:24.950-06:00
 cssclasses: ""
 ---
 
@@ -82,7 +82,7 @@ Nero's first and only childhood friend. The one guy he ever called his brother. 
 
 ### Aisha
 
-Whereas Venn was a brother to Nero, Aisha (at least later on after officially joining the party) is like an older sister to him. Out of anyone else in the group, she's the one who talks to him the most. The one who feels truly awful about his situation. The one willing to try her best to help him cure, or at least manage, his kleptomania. Nero truly has no idea why Aisha even tries so hard or even cares about him as much as she does, but he doesn't hate it (as much as he tries to pretend he doesn't care). 
+Whereas Venn was a brother to Nero, Aisha (at least later on after Nero officially joins the party) is like an older sister to him. Out of anyone else in the group, she's the one who talks to him the most. The one who feels truly awful about his situation. The one willing to try her best to help him cure, or at least manage, his kleptomania. Nero truly has no idea why Aisha even tries so hard or even cares about him as much as she does, but he doesn't hate it (as much as he tries to pretend he doesn't care). 
 
 ***
 ## Weaknesses
