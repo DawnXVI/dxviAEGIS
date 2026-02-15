@@ -2,7 +2,7 @@
 publish: true
 title: An Extremely Generic Isekai Story
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-15T00:35:03.684-06:00
+modified: 2026-02-15T00:37:39.877-06:00
 cssclasses: ""
 ---
 
@@ -16,6 +16,8 @@ cssclasses: ""
 - *Monfisto (Owner of [[Characters/Protagonists/Cinnamon]])*
 - *Dusty*
 - *ZAN*
+
+***
 
 ## Changelog
 
