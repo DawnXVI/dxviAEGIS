@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T22:34:38.000-06:00
-modified: 2026-02-15T00:18:07.608-06:00
+modified: 2026-02-15T00:42:47.773-06:00
 cssclasses: ""
 ---
 
@@ -19,7 +19,7 @@ cssclasses: ""
 
 ## Overview
 
-Lysandra is a short human girl with fair skin and long, flowing white hair, which she makes sure to keep thoroughly kempt. She has beautiful, ghostly white eyes that have an almost ethereal quality to them. She has smooth, flawless skin that has never seen a blemish for as long as she's lived. She's never seen without a light smile on her face, These traits all combine to form a girl who is, by all definitions, *exceptionally beautiful.* This beauty has earned her the moniker *"The Flower of Loria."*
+Lysandra is a short human girl with fair skin and long, flowing white hair, which she makes sure to keep thoroughly kempt. She has beautiful, ghostly white eyes that have an almost ethereal quality to them. She has smooth, flawless skin that has never seen a blemish for as long as she's lived, and she's never seen without a light smile on her face. These traits all combine to form a girl who is, by all definitions, *exceptionally beautiful.* This beauty has earned her the moniker *"The Flower of Loria."*
 
 Lysandra, despite her royal status, intentionally forgoes any extravagant, regal clothing. Though it's not unusual for a princess to choose not to dress in a way that makes them stand out like a sore thumb, it's Lysandra's *choice* of clothing that is unique. She always dresses very modestly, wearing comfortable dresses that any normal civilian girl would wear. The lavender colors of her dresses are the only indicator of her royalty.
 

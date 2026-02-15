@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-15T00:29:54.623-06:00
+modified: 2026-02-15T00:41:33.542-06:00
 cssclasses: ""
 ---
 
@@ -20,7 +20,7 @@ cssclasses: ""
 
 ## Overview
 
-Nero is what you could call a “back-alley dweller.” Someone who steals from innocent people not to survive, but to live comfortably, though the former *did* use to be true. He is a very short, scrawny boy with short, brown, curly hair. He has faint  stubble, and his eyes are a bright orange color. Atop his head are two large, round mouse ears that are highly sensitive to sound, and he has a long, pink mouse tail about half the length of his body's height.
+Nero is what you would call a “back-alley dweller.” Someone who steals from innocent people not to survive, but to live comfortably, though the former *did* use to be true. He is a very short, scrawny boy with short, brown, curly hair. He has faint  stubble, and his eyes are a bright orange color. Atop his head are two large, round mouse ears that are highly sensitive to sound, and he has a long, pink mouse tail about half the length of his body's height.
 
 Typical for a criminal living on the streets, you will almost never see Nero without some dirt on his face or clothes, which are visibly worn down and patched up in several places.
 
