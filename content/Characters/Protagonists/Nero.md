@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-15T00:41:33.542-06:00
+modified: 2026-02-15T00:49:21.703-06:00
 cssclasses: ""
 ---
 
@@ -37,7 +37,7 @@ Eventually, at the age of 8, Nero grew tired of being told what to do by adults.
 
 The reality of the criminal life was quite a lot more bleak than Nero envisioned it. It wasn't long after he began pickpocketing people that he chose the wrong target: a knight who nearly grabbed him as Nero was pickpocketing him. The chase that ensued left the young Nero terrified once he got away, the realization that *criminals go to jail when they're caught* finally setting in. The thought of prison scared him beyond belief. He was merely an 8 year old boy, after all. 
 
-Unfortunately, not only was he too scared to come back to the orphanage out of fear it'd lead to him being turned over to the police, he couldn't find his way back to begin with. He'd gone too far. He was already in the nearest city with no memory of the way back. He had promised Venn he would return, but now, he knew he had no choice but to suck it up and commit to the decision he made. 
+Unfortunately, not only was he too scared to go back to the orphanage out of fear it'd lead to him being turned over to the authorities, he couldn't find his way back to begin with. He'd gone too far. He was already in the nearest city with no memory of *what path* he took to get there. He had promised Venn he would return, but now, he knew he had no choice but to suck it up and commit to the decision he made. 
 
 It was through pure luck and his own innate talent for stealth that Nero managed to last as long as he did. Though he initially was stealing purely to survive, at a certain point in his life, he realized he no longer had to do so. He was financially well-off. He could have easily settled down and started a new life somewhere far from the areas he was actively robbing people. The only problem? He had **developed kleptomania.** Over time, the excitement and adrenaline rushes he got from pulling robbery after robbery were too good for him to just... stop. For the past 2 years, he's been stealing purely to satiate his addiction. As of now, he continues roaming alleyways and shady areas, targeting any unsuspecting passersby he can. 
 
