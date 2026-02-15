@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-15T00:49:21.703-06:00
+modified: 2026-02-15T00:54:14.228-06:00
 cssclasses: ""
 ---
 
@@ -57,7 +57,7 @@ Despite his dick-ish attitude, Nero *does* cherish the few genuine bonds he mana
 
 Being a criminal obviously involves getting rowdy with knights, competing criminals; the general rabble. Nero's magical tactics are different from most. He doesn't want to get super up close and personal, and he doesn't want to kill anyone either. Thus, for a long while, he's been using his magic to physically enhance his body, increasing his movement speed. This is mainly to run away from a confrontation or to quickly knock out the person he’s engaging with. Beyond this, however, his decision to enhance himself gave him a way to virtually guarantee he would be be able to successfully pickpocket *anyone,* as pickpocketing remains his main source of income. 
 
-By using magic to “overclock” his brain, his capability for processing information greatly increase, effectively making him perceive time several times slower than normal people alongside the usual movement speed increase. This combination makes him perceive *his own* movement at a normal rate, while still perceiving the rest of the world in slow motion. While he has enough experience and precision to avoid destroying his own brain when he overclocks it, constantly making your brain work beyond it's normal rate for brief periods of time creates a lot of physical strain on it. Nero has dealt with awful headaches and minor nosebleeds on multiple occasions. Nero has been stubborn, deciding that the pros of this technique outweigh the cons, but early on in the story will realize that he's only slowly killing himself, and will ditch this technique in favor of leaning more heavily towards *time manipulation.*
+By using magic to “overclock” his brain, his capability for processing information greatly increases, effectively making him perceive time several times slower than normal people alongside the usual movement speed increase. This combination makes him perceive *his own* movement at a normal rate, while still perceiving the rest of the world in slow motion. While he has enough experience and precision to avoid destroying his own brain when he overclocks it, constantly making your brain work beyond it's normal rate for brief periods of time creates a lot of physical strain on it. Nero has dealt with awful headaches and minor nosebleeds on multiple occasions. Nero has been stubborn, deciding that the pros of this technique outweigh the cons, but early on in the story will realize that he's only slowly killing himself, and will ditch this technique in favor of leaning more heavily towards *time manipulation.*
 
 ### Time Manipulation
 
