@@ -1,23 +1,21 @@
 ---
 publish: true
 created: 2026-02-12T22:34:38.000-06:00
-modified: 2026-02-13T05:50:13.340-06:00
+modified: 2026-02-15T00:18:07.608-06:00
 cssclasses: ""
 ---
 
-**The Flower of Loria**
-
-
+#### The Flower of Loria
 
 ***
-| INFO    |                       |
+
+| <center>INFO</center>    |                       |
 | ------- | --------------------- |
-| Aliases | *The Flower of Loria* |
 | Race    | *Human*               |
 | Age     | *17*                  |
-| Height  | *5'4"*                |
+| Height  | *5'4"* / *162 cm*                |
 | Gender  | *Female*              |
-| Title   | *Princess of Loria*                      |
+| Occupation   | *Princess of Loria*                      |
 
 ## Overview
 
@@ -83,6 +81,9 @@ The two knights aren't just there to take care of Lysandra, but also to enforce 
 
 ### Aisha
 
+Aisha is Lysandra's best (and only) friend. They met when Aisha, at the age of 13, got involved with the royal family and Rodin began recognizing her abilities and the potential she had as a warrior. The two hit it off *exceptionally* well, and Rodin allows their friendship... *mostly* because Aisha's a girl.
+
+Lysandra loves to spend time with Aisha whenever she can. Of course, they're both very busy and can't exactly hang out by going on a journey together, but the simple things they do—walking through the royal garden, having tea together, talking about the things they like—are what make their friendship special to Lysandra.
 
 ### ???
 
@@ -91,4 +92,6 @@ The [[SPOILERS/Lilith's Truth\|half-sibling brought into existence and condemned
 ***
 ## Weaknesses
 
-- Despite her patience and kindness, the fact of the matter is that Lysandra is a very busy girl. She's a princess, after all. Starting her royal duties at the age of 12 gave her an alarming head start that she was able to adapt to, but it doesn't mean the stresses of being a royal haven't affected her. She can sometimes feel overwhelmed, and she has actually lost her temper *only once* in her life on a particularly bad day she was having.
+### Stress
+
+Despite her patience and kindness, the fact of the matter is that Lysandra is a very busy girl. She's a princess, after all. Starting her royal duties at the age of 12 gave her an alarming head start that she was able to adapt to, but it doesn't mean the stresses of being a royal haven't affected her. She can sometimes feel overwhelmed, and she has actually lost her temper *only once* in her life on a particularly bad day she was having.

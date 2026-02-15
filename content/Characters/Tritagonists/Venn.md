@@ -1,21 +1,22 @@
 ---
 publish: true
-created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-14T17:28:58.097-06:00
+created: 2026-02-13T22:37:28.500-06:00
+modified: 2026-02-15T00:24:35.634-06:00
 cssclasses: ""
 ---
 
-#### Chivalry Incarnate
+#### The Slithering Swindler
 
 ***
 
 | <center>INFO</center>   |                    |
 | ------ | ------------------ |
-| Race   | *Human*             |
-| Age    | *20*               |
-| Height | *6'1"* / *185 cm* |
+| Race   | *Naga*             |
+| Age    | *17*               |
+| Height | *5'10"* / *180 cm* |
 | Gender | *Male*             |
-| Occupation  | *Knight* (Self-Proclaimed)           |
+| Occupation  | *Bandit*           |
+
 ## Overview
 
 
@@ -42,5 +43,4 @@ cssclasses: ""
 
 ***
 ## Weaknesses
-
 
