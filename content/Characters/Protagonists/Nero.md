@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-15T00:56:03.902-06:00
+modified: 2026-02-15T00:56:53.199-06:00
 cssclasses: ""
 ---
 
@@ -63,7 +63,7 @@ By using magic to “overclock” his brain, his capability for processing infor
 
 Years of being a sneaky, calculating thief have not only improved Nero's stealth, but his tactic of constantly waiting before rushing in to swipe items off a person has also improved his precision and timing to impeccable levels. This proficiency led to his decision to learn to *manipulate time,* a skill that would normally be very difficult to pull off properly. Nero had already dabbled in this early on, but found it too difficult to use. This is why he kept being stubborn and sticking to his physical enhancement strategy. However, the realization that he'd likely give himself a fatal seizure if he continued overclocking his brain forced him to learn proper time manipulation if he was to continue stealing. Fortunately, the precision he had by then made improving his time manipulation a less tedious task.
 
-Nero specializes in manipulating time through *localized time distortions.* Rather than creating fields of warped time, focusing on just making much smaller body-sized fields of warped time is easier for him to concentrate on maintaining in the act of robbing someone. By speeding up time around his own body, he can achieve the same effect of perceiving time slower and moving faster without harming his own brain and without perceiving his own movements as being slower. He can even use this effect on his enemies, creating small fields of *slowed* time around them to make them much slower. Lastly, he can outright "freeze" objects in time, which allows him to do things such as suspending a small metal ball in the air and tapping on it repeatedly to accumulate potential energy. He can then *dispel* the warped time, turning all the accumulated potential energy into explosive kinetic energy that launches the object at an immense velocity. Because of how complex it is to create fields of time slowed to *this* degree, and the drain it has on his mana, he only does this on small objects since freezing them in place only requires very small fields of warped time.
+Nero specializes in manipulating time through *localized time distortions.* Instead of creating large fields of warped time, he instead focuses on just making much smaller body-sized fields of warped time that are easier for him to concentrate on maintaining during the act of robbing someone. By speeding up time around his own body, he can achieve the same effect of perceiving time slower and moving faster without harming his own brain and without perceiving his own movements as being slower. He can even use this effect on his enemies, creating small fields of *slowed* time around them to make them much slower. Lastly, he can outright "freeze" objects in time, which allows him to do things such as suspending a small metal ball in the air and tapping on it repeatedly to accumulate potential energy. He can then *dispel* the warped time, turning all the accumulated potential energy into explosive kinetic energy that launches the object at an immense velocity. Because of how complex it is to create fields of time slowed to *this* degree, and the drain it has on his mana, he only does this on small objects since freezing them in place only requires very small fields of warped time.
 
 ### Combat Skill
 
