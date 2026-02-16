@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-13T22:37:28.500-06:00
-modified: 2026-02-16T06:45:36.049-06:00
+modified: 2026-02-16T06:53:38.643-06:00
 cssclasses: ""
 ---
 
@@ -19,7 +19,7 @@ cssclasses: ""
 
 ## Overview
 
-Venn is your run-of-the-mill crook working for a bigger organization to make a living through very illegal and immoral means. However, his proficiency in diplomacy places places him above the average low-class grunt. His usual assignments involve selling stolen goods at exorbitant prices to clueless customers, negotiating business with potential collaborators, *and* occasionally roughing up poor souls who are unfortunate (or downright foolish) enough to anger his boss.
+Venn is your run-of-the-mill crook working under a larger organization, making his living through means that are equal parts illegal and immoral. However, his proficiency in diplomacy places him above the average low-rank grunt. His usual assignments involve selling stolen goods at exorbitant prices to clueless customers, negotiating business with potential collaborators, *and* occasionally roughing up poor souls who are unfortunate (or downright foolish) enough to anger his boss.
 
 Venn is a boy who is tall for a Naga his age, and quite handsome at that, which greatly aids him in being a charismatic swindler. He has tan skin typical of most Nagas, and his eyes are a shimmering jade green color with thin, slit-shaped pupils. His hair is a dull red color, neck-length and shaggy in appearance, which only adds to his charisma. As a python-type Naga, he doesn't have venomous fangs; rather, all of his teeth are normal length, but very sharp. Being a non-venomous Naga also means he has two functioning legs, with a long, thick snake tail protruding from his lower back, the scales of which are a brighter red than his hair.
 
