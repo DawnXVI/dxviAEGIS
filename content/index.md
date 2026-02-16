@@ -2,7 +2,7 @@
 publish: true
 title: An Extremely Generic Isekai Story
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-15T00:38:22.050-06:00
+modified: 2026-02-16T06:46:23.877-06:00
 cssclasses: ""
 ---
 
@@ -21,9 +21,14 @@ cssclasses: ""
 
 ## Changelog
 
+### February 16th, 2026 (7:00 AM CST)
+
+- [[Characters/Tritagonists/Venn]]'s page (mostly) filled out, courtesy of *Cube,* and proofread by me. `95% Done. Sorry, I've been up all night and I do NOT have the energy to keep going.`
+
+***
 ### February 15th, 2026 (12:35 PM CST)
 
-- [[Characters/Protagonists/Nero]]'s character page filled out, courtesy of *Cube,* and proofread by me.✅
+- [[Characters/Protagonists/Nero]]'s character page filled out, courtesy of *Cube,* and proofread by me. ✅
 - Finished [[Characters/Tritagonists/Lysandra]]'s character info. ✅
 - Added **Info Tables** to all character pages. 
 - Added [[Characters/Tritagonists/Venn]]'s character page + Info Table under [[Characters/Tritagonists/Tritagonists]].

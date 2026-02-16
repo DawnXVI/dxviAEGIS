@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-15T01:00:24.950-06:00
+modified: 2026-02-16T05:38:44.257-06:00
 cssclasses: ""
 ---
 
@@ -35,7 +35,7 @@ Nero was orphaned before he could form conscious thought. After being sent away 
 
 Eventually, at the age of 8, Nero grew tired of being told what to do by adults. The rebel in him yearned for a life of freedom and stealthy adventure. After encouragement from Venn, Nero made what he later realized was one of the worst decisions of his life. He packed up what little he had, and ran away from the orphanage.
 
-The reality of the criminal life was quite a lot more bleak than Nero envisioned it. It wasn't long after he began pickpocketing people that he chose the wrong target: a knight who nearly grabbed him as Nero was pickpocketing him. The chase that ensued left the young Nero terrified once he got away, the realization that *criminals go to jail when they're caught* finally setting in. The thought of prison scared him beyond belief. He was merely an 8 year old boy, after all. 
+The reality of the criminal life was quite a lot more bleak than Nero envisioned it. It wasn't long after he began pickpocketing people that he chose the wrong target: a knight who nearly grabbed him as Nero was pickpocketing him. The chase that ensued left the young Nero terrified once he got away, the realization that *criminals go to jail when they're caught* finally setting in. The thought of prison scared him beyond belief. He was merely an 8 year old boy, after all. ^1
 
 Unfortunately, not only was he too scared to go back to the orphanage out of fear it'd lead to him being turned over to the authorities, he couldn't find his way back to begin with. He'd gone too far. He was already in the nearest city with no memory of *what path* he took to get there. He had promised Venn he would return, but now, he knew he had no choice but to suck it up and commit to the decision he made. 
 
