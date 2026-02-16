@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-13T22:37:28.500-06:00
-modified: 2026-02-16T16:49:15.147-06:00
+modified: 2026-02-16T17:21:04.489-06:00
 cssclasses: ""
 ---
 
@@ -36,7 +36,7 @@ Venn went through [[Characters/Protagonists/Nero#^1\|essentially the same thing 
 
 *Criminals go to jail when they're caught.*
 
-Like Nero, Venn lasted as long as he did through luck and talent. Though whereas Nero's talent was stealth, *Venn's* talent was pure charisma. Even as a young boy, he had quite the knack for making people let their guard down, very quickly coming up with convincing lies, and making himself appear as though he's merely another innocent kid. Again, like Nero, this was purely for the sake of survival early on. But in Venn's case, he didn't develop kleptomania or anything like that. He became afflicted with something that's potentially even worse. He was *losing* his moral compass bit by bit with the time that passed. He slowly became more *okay* with what he was doing, becoming a little more *numb* to the pain of knowingly scamming innocent people and potentially ruining financial lives.
+Like Nero, Venn lasted as long as he did through luck and talent. Though whereas Nero's talent was stealth, *Venn's* talent was pure charisma. Even as a young boy, he had quite the knack for making people let their guard down, very quickly coming up with convincing lies, and making himself appear as though he's merely another innocent kid. Again, like Nero, this was purely for the sake of survival early on. But in Venn's case, he didn't develop kleptomania or anything like that. He became afflicted with something that's potentially even worse. He was *losing* his moral compass bit by bit with the time that passed. He slowly became more *okay* with what he was doing, becoming a little more *numb* to the pain of knowingly scamming innocent people and potentially ruining their financial stability.
 
 By the age of 13, Venn still held onto the hope that Nero was out there somewhere, but that hope was slowly beginning to dwindle. He began taking up side-gigs to earn cash in the hopes that he could some day live on his own away from all the trouble he's caused thus far. One of those side-gigs just happened to be a job he procured at a shop owned by someone *shady*. All he had to do was be the "salesboy" in charge of convincing customers to make purchases. One day, a group of men came into the building and asked to see the owner of the shop. Venn took one look at them and realized... these people were **not** friendly, and whatever they wanted with his boss couldn't have been good. He didn't care much for the old man; he could tell clear as day that the guy wasn't running some normal gift shop, but he *was* worried about losing his job. Venn turned on the charisma with a level of effort he hadn't used before, successfully managing to spin the conversation with the men in various directions before stealthily activating the call stone at the counter to alert nearby knights to his predicament. A group of them arrived just before things got violent, and the men were taken away.
 
