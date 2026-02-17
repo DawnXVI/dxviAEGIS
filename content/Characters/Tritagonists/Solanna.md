@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-13T03:51:37.715-06:00
-modified: 2026-02-15T00:23:27.619-06:00
+modified: 2026-02-17T01:19:45.150-06:00
 cssclasses: ""
 ---
 
@@ -10,8 +10,8 @@ cssclasses: ""
 | <center>INFO</center> |                   |
 | --------------------- | ----------------- |
 | Race                  | *Felinox*         |
-| Age                   | *34*              |
-| Height                | *5'7"* / *170 cm* |
+| Age                   | *39*              |
+| Height                | *6'0"* / *182 cm* |
 | Gender                | *Female*          |
 | Occupation            | *Royal Knight*    |
 
