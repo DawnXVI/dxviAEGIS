@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-16T05:38:44.257-06:00
+created: 2026-02-16T12:51:50.000-06:00
+modified: 2026-02-18T11:29:35.762-06:00
 cssclasses: ""
 ---
 
@@ -78,7 +78,7 @@ Nero's years of experience in being stealthy and precise, combined with his own 
 
 ### Venn
 
-Nero's first and only childhood friend. The one guy he ever called his brother. Nero and Venn got along incredibly quickly after meeting each other in the orphanage. It wasn't long until they became inseparable, much to the annoyance of the other kids since they *loved* to mess around and be troublemakers. It was through their constant antics pretending to be bandits that Nero got his initial practice with stealth, and it was Venn who, upon Nero's departure, gave him the poncho he wears at all times as a token of their brotherhood. Unfortunately, as of now, Nero has mixed feelings and feels deep-seated resentment towards Venn. He blames him for where his life has led to, and it's purely because he *still remembers* that Venn was the one who encouraged him to leave and become a "badass thief."
+Nero's first and only childhood friend. The one guy he ever called his brother. Nero and Venn got along incredibly quickly after meeting each other in the orphanage. It wasn't long until they became inseparable, much to the annoyance of the other kids since they *loved* to mess around and be troublemakers. It was through their constant antics pretending to be bandits that Nero got his initial practice with stealth, and it was Venn who, upon Nero's departure, gave him the poncho he wears at all times as a token of their brotherhood. Unfortunately, as of now, Nero has mixed feelings and feels deep-seated resentment towards Venn. He blames him for where his life has led to, and it's purely because he *still remembers* that Venn was the one who encouraged him to leave and become a "badass thief." Whether that's fair to Venn or not isn't a concern of Nero's as far as he cares. He's never been one to admit his faults anyway.
 
 ### Aisha
 
@@ -89,4 +89,4 @@ Whereas Venn was a brother to Nero, Aisha (at least later on after Nero official
 
 ### Stubbornness
 
-Nero is *immensely* stubborn. There are a lot of lessons he's had to learn throughout his life the hard way due to his own inability to realize when he needs to just... *stop* and do/think about things *differently.* Even now, he remains stubborn in his belief that Venn is at fault for him ending up as a thief living on the streets. He can't admit that *his own actions* led him to where he is. With this level of obstinacy, he may end up having to *also* learn this truth the hard way.
+Nero is *immensely* stubborn. There are a lot of lessons he's had to learn throughout his life the hard way due to his own inability to realize when he needs to just... *stop, **think*** for a second, and realize that maybe *he* was the problem. Even now, he remains stubborn in his belief that Venn is at fault for him ending up as a thief living on the streets. He can't admit that *his own actions* led him to where he is. With this level of obstinacy, he may end up having to *also* learn this truth the hard way.
