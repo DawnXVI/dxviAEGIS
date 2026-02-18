@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-16T12:51:50.000-06:00
-modified: 2026-02-18T11:29:35.762-06:00
+modified: 2026-02-18T11:44:51.680-06:00
 cssclasses: ""
 ---
 
@@ -48,7 +48,7 @@ Nero is a *smug, cheeky,* and *slightly arrogant* bastard who wouldn't hesi
 
 After all the time he's spent in the criminal underworld, it's no surprise that Nero has trust issues. Not many other criminals are willing to be friendly unless they get something out of it, and that *includes* himself. Anyone who *isn't* a criminal tends to report him to the authorities not long after establishing a "bond."
 
-Despite his dick-ish attitude, Nero *does* cherish the few genuine bonds he manages to build here and there, especially the one he builds with [[Characters/Protagonists/Aisha]]. For all his arrogance, Nero is, at the end of the day, just a kid. A lonely kid who made terrible decisions and longs for real connections, even if he chooses not to recognize that. Those who aren't driven away by him initially being a jerk will see him gradually soften up to the point of friendly banter and sarcastic jokes. Despite the weak foundation his past "bonds" were built upon, Nero can be a very loyal ally to the friends he *truly* cares about... even if he *can* still be a bit of a jerk to them.
+Despite his dick-ish attitude, Nero *does* cherish the few genuine bonds he manages to build here and there, especially the one he builds with [[Characters/Protagonists/Aisha]]. For all his arrogance, Nero is, at the end of the day, just a kid. A lonely kid who made terrible decisions and, even if he'd rather hug a cactus than admit it, desperately craves a connection that's even a *little* close to the one he had with Venn. Those who aren't driven away by him initially being a jerk will see him gradually soften up to the point of friendly banter and sarcastic jokes. Despite the weak foundation his past "bonds" were built upon, Nero can be a very loyal ally to the friends he *truly* cares about... even if he *can* still be a bit of a jerk to them.
 
 ***
 ## Abilities
@@ -82,7 +82,7 @@ Nero's first and only childhood friend. The one guy he ever called his brother. 
 
 ### Aisha
 
-Whereas Venn was a brother to Nero, Aisha (at least later on after Nero officially joins the party) is like an older sister to him. Out of anyone else in the group, she's the one who talks to him the most. The one who feels truly awful about his situation. The one willing to try her best to help him cure, or at least manage, his kleptomania. Nero truly has no idea why Aisha even tries so hard or even cares about him as much as she does, but he doesn't hate it (as much as he tries to pretend he doesn't care). 
+Whereas Venn was a brother to Nero, Aisha (at least later on after Nero officially joins the party) is like an older sister to him. Out of anyone else in the group, she's the one who talks to him the most. The one who feels truly awful about his situation. The one willing to try her best to help him cure, or at least manage, his kleptomania. Nero truly has no idea why Aisha even tries so hard or even cares about him as much as she does, but he doesn't hate it (even if he tries to pretend he does). 
 
 ***
 ## Weaknesses

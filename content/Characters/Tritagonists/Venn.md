@@ -5,6 +5,7 @@ modified: 2026-02-16T19:26:13.059-06:00
 cssclasses: ""
 ---
 
+
 #### The Slithering Swindler
 
 ***
@@ -83,11 +84,11 @@ Venn himself is quite fit, and his stature gives him a natural intimidation fact
 
 Just in case the constant mention of [[Characters/Protagonists/Nero]] throughout this info wasn't enough to get the point across... 
 
-There isn't much else I can say to describe how close Nero and Venn were. If circumstances were different, and they had *both* ran from the orphanage together, they would've been much better off in terms of surviving on the streets. They could have potentially made the mutual decision to completely abandon any idea of pursuing the path of a criminal. That unfortunately isn't the timeline of events that unfolded. Venn, despite having given up his search for Nero, despite firmly believing that Nero *died* years ago, *still* holds a small bit of hope deep down that he'll find his brother one day. 
+There isn't much more to say that hasn't already been said. If circumstances were different, and they had *both* ran from the orphanage together, they would've been much better off in terms of surviving on the streets. They could have potentially made the mutual decision to completely abandon any idea of pursuing the path of a criminal. That unfortunately isn't the timeline of events that unfolded. Venn, despite having given up his search for Nero, despite firmly believing that Nero *died* years ago, *still* holds a small bit of hope deep down that he'll find his brother one day. 
 
 ***
 ## Weaknesses
 
 ### Regret
 
-Venn lives with the crushing guilt of thinking he sent his best friend to a life of loneliness, pain, and potentially death. Venn used to cry himself to sleep on most nights thinking of his time at the orphanage and how much he misses Nero and being back there with him, but nowadays, he can hardly express his grief properly at all. On nights where the guilt bubbles up, he merely looks at the sky and... stares. The guilt of being a con man also weighs down on him, but it doesn't make him hesitate when he's in the middle of scamming somebody. The only reason for this, however, is that he *can't afford* to hesitate. Not with the noose around his neck that seems to tighten ever so slightly with each passing day.
+Venn lives with the crushing guilt of thinking he sent his best friend to a life of loneliness, pain, and potentially an early grave. Venn used to cry himself to sleep on most nights thinking of his time at the orphanage and how much he misses Nero and being back there with him, but nowadays, he can hardly express his grief properly at all. On nights where the guilt bubbles up, he merely looks at the sky and... stares. The guilt of being a con man also weighs down on him, but it doesn't make him hesitate when he's in the middle of scamming somebody. The only reason for this, however, is that he *can't afford* to hesitate. Not with the noose around his neck that seems to tighten ever so slightly with each passing day.
