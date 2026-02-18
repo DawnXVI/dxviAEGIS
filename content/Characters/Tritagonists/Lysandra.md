@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-02-12T22:34:38.000-06:00
-modified: 2026-02-15T00:42:47.773-06:00
+created: 2026-02-16T12:51:50.000-06:00
+modified: 2026-02-18T09:53:39.426-06:00
 cssclasses: ""
 ---
 
@@ -26,9 +26,9 @@ Lysandra, despite her royal status, intentionally forgoes any extravagant, regal
 ***
 ## Background
 
-Princess Lysandra II, named after her late mother, is the daughter of [[Characters/Antagonists/King Rodin XXVII\|King Rodin]], and the princess of Loria. Within the castle, her room lies in one of the top floors. 
+Princess Lysandra II, named after her late mother, is the daughter of [[Characters/Antagonists/King Rodin XXVII\|King Rodin]], and the crown princess of Loria. Within the castle, her room lies in one of the top floors. 
 
-The death of Lysandra's mother when she was but an infant led to her having to take on royal duties at the young age of 12. While it was overwhelming at first, Lysandra proved to be extremely adaptable, and settled into her duties as the princess very quickly. At least one of her royal guards, [[Characters/Tritagonists/Solanna]] and [[Characters/Tritagonists/Leilanna]], is with her at all times. This is a protective measure; the two were assigned to protect Lysandra with their lives by King Rodin immediately following the death of Queen Lysandra. 
+The death of Queen Lysandra mother when Princess Lysandra was but an infant led to her having to take on royal duties at the young age of 12. While it was overwhelming at first, Lysandra proved to be extremely adaptable, and settled into her duties as the princess very quickly. At least one of her royal guards, [[Characters/Tritagonists/Solanna]] and [[Characters/Tritagonists/Leilanna]], is with her at all times. This is a protective measure; the two were assigned to protect Lysandra with their lives by King Rodin immediately following the death of Queen Lysandra. 
 
 Still, Lysandra dreams of seeing the world beyond Loria. More than anything, she wishes to have the chance to explore the vast regions she reads so much about in her books. Alas, she is a princess with duties to fulfill, and Rodin's protectiveness means she's forbidden from doing such a thing.
 
@@ -48,7 +48,7 @@ Lysandra has a habit of rambling on—if given the chance—about the things she
 
 ### Ice & Wind
 
-Lysandra's, and by extension *Rodin's*, bloodline has for many centuries passed down *powerful wind manipulation techniques* that have time and again proven that the Rodin lineage has the right to rule. Lysandra, despite not being a Rodin, nonetheless had this magic knowledge passed down to her by her father. Her own magic control is not at the level of a highly experienced mage, but she's certainly no pushover. Thus, she can use these royal wind manipulation techniques very well.
+The Rodin bloodline has for many centuries passed down *powerful wind manipulation techniques* to each subsequent Rodin. These techniques have time and again legitimized the royal family's rule. Lysandra, despite breaking the chain by being a female only child, nonetheless had this magic knowledge passed down to her by her father. Her own magic control is not at the level of a highly experienced mage, but she's certainly no pushover. Thus, she can use these royal wind manipulation techniques very well.
 
 However, Lysandra also had a fascination for ice manipulation through magic as she grew up. It led to her going out of her way to learn a skill that was never part of her royal lineage. And now, she is quite adept in both ice and wind magic. She has even crafted her own defensive ice technique, one built to deflect other magic attacks. 
 
