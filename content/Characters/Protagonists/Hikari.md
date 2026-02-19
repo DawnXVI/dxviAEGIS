@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-15T15:03:17.011-06:00
+modified: 2026-02-19T05:26:36.446-06:00
 cssclasses: ""
 ---
 
@@ -31,12 +31,12 @@ cssclasses: ""
 
 
 ***
-## Abilities
+## Friends & Family
 
 
 
 ***
-## Friends & Family
+## Strengths
 
 
 

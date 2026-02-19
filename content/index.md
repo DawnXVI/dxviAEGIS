@@ -2,7 +2,7 @@
 publish: true
 title: An Extremely Generic Isekai Story
 created: 2026-02-12T22:34:40.000-06:00
-modified: 2026-02-17T00:52:50.069-06:00
+modified: 2026-02-19T05:58:47.003-06:00
 cssclasses: ""
 ---
 
@@ -16,18 +16,28 @@ cssclasses: ""
 - *Monfisto (Owner of [[Characters/Protagonists/Cinnamon]])*
 - *Dusty*
 - *ZAN*
+- *Loogie*
 
 ***
 
 ## Changelog
 
+### February 19th, 2026 (6:00 AM CST)
+
+- Filled out most of [[Characters/Protagonists/Aisha]]'s character info. `85% done.` 
+- Moved [[Characters/Deuteragonists/Venn]] to [[Characters/Deuteragonists/Deuteragonists]]. `Felt like he's fleshed out enough to fit here.`
+- Reformatted character info so that the "Friends & Family" sections come before the "Abilities/Weaknesses" sections.
+- Changed "Abilities" to "Strengths". `Figured this different wording just makes more sense.`
+- new person on the writing team yippee!!!
+
+***
 ### February 16th, 2026 (7:30 PM CST)
 
-- Finished [[Characters/Tritagonists/Venn]]'s character info. ✅
+- Finished [[Characters/Deuteragonists/Venn]]'s character info. ✅
 
 ### February 16th, 2026 (7:00 AM CST)
 
-- [[Characters/Tritagonists/Venn]]'s page (mostly) filled out, courtesy of *Cube,* and proofread by me. `95% Done. Sorry, I've been up all night and I do NOT have the energy to keep going.`
+- [[Characters/Deuteragonists/Venn]]'s page (mostly) filled out, courtesy of *Cube,* and proofread by me. `95% Done. Sorry, I've been up all night and I do NOT have the energy to keep going.`
 
 ***
 ### February 15th, 2026 (12:35 PM CST)
@@ -35,7 +45,7 @@ cssclasses: ""
 - [[Characters/Protagonists/Nero]]'s character page filled out, courtesy of *Cube,* and proofread by me. ✅
 - Finished [[Characters/Tritagonists/Lysandra]]'s character info. ✅
 - Added **Info Tables** to all character pages. 
-- Added [[Characters/Tritagonists/Venn]]'s character page + Info Table under [[Characters/Tritagonists/Tritagonists]].
+- Added [[Characters/Deuteragonists/Venn]]'s character page + Info Table under [[Characters/Tritagonists/Tritagonists]].
 
 ***
 ### February 13th, 2026 (4:00 AM CST)
