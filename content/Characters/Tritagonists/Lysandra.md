@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-02-12T22:34:38.000-06:00
-modified: 2026-02-19T05:28:34.761-06:00
+created: 2026-02-19T14:29:34.000-06:00
+modified: 2026-02-19T14:48:45.075-06:00
 cssclasses: ""
 ---
 
@@ -21,12 +21,12 @@ cssclasses: ""
 
 Lysandra is a short human girl with fair skin and long, flowing white hair, which she makes sure to keep thoroughly kempt. She has beautiful, ghostly white eyes that have an almost ethereal quality to them. She has smooth, flawless skin that has never seen a blemish for as long as she's lived, and she's never seen without a light smile on her face. These traits all combine to form a girl who is, by all definitions, *exceptionally beautiful.* This beauty has earned her the moniker *"The Flower of Loria."*
 
-Lysandra, despite her royal status, intentionally forgoes any extravagant, regal clothing. Though it's not unusual for a princess to choose not to dress in a way that makes them stand out like a sore thumb, it's Lysandra's *choice* of clothing that is unique. She always dresses very modestly, wearing comfortable dresses that any normal civilian girl would wear. The lavender colors of her dresses are the only indicator of her royalty.
+Lysandra, despite her royal status, intentionally forgoes any extravagant, regal clothing. Though it's not unusual for a princess to choose not to dress in a way that makes them stand out like a sore thumb, it's Lysandra's *choice* of clothing that is unique. She always dresses very modestly, wearing comfortable dresses that any normal civilian girl would wear. The lavender colors of her dresses are the only indicator of her royalty. Even more unique is her *reason* for choosing to dress so modestly: it's so she can fit in with the civilians and get the message across that she doesn't see herself as above them just because she's the princess.
 
 ***
 ## Background
 
-Princess Lysandra II, named after her late mother, is the daughter of [[Characters/Antagonists/King Rodin XXVII\|King Rodin]], and the princess of Loria. Within the castle, her room lies in one of the top floors. 
+Princess Lysandra II, named after her late mother, is the daughter of [[Characters/Antagonists/King Rodin XXVII\|King Rodin]], and the crown princess of Loria. Within the castle, her room lies in one of the top floors. 
 
 The death of Lysandra's mother when she was but an infant led to her having to take on royal duties at the young age of 12. While it was overwhelming at first, Lysandra proved to be extremely adaptable, and settled into her duties as the princess very quickly. At least one of her royal guards, [[Characters/Tritagonists/Solanna]] and [[Characters/Tritagonists/Leilanna]], is with her at all times. This is a protective measure; the two were assigned to protect Lysandra with their lives by King Rodin immediately following the death of Queen Lysandra. 
 
@@ -37,9 +37,9 @@ Still, Lysandra dreams of seeing the world beyond Loria. More than anything, she
 
 Lysandra is a *sweet,* *kind,* *gentle* soul who genuinely values the lives of her subjects. The "Flower of Loria" name comes not just from her beauty, but also the kindness she shows to those around her. She is beloved by the people of Loria, and has already shown herself to be a very capable heiress to the throne.
 
-Lysandra is one of the few royals in the world who are very down-to-earth and actively interact with the subjects they rule over. However, there is one thing Lysandra struggles with in her interactions with civilians. Some have a tendency to act like entirely different people in her presence, not only because she's the princess, but because they fear the two tall, intimidating knights that stand guard behind her at all times. She can tell when someone's being overly nice to her out of fear that they may offend her in some way, and it makes her feel bad that any civilian would feel the need to fake their personality in her presence. What she wishes is that everyone would treat her like a normal person.
+Lysandra is one of the few royals in the world who are very down-to-earth and actively interact with the subjects they rule over. However, there is one thing Lysandra struggles with in her interactions with civilians. Some have a tendency to act like entirely different people in her presence, not only because she's the princess, but because they fear the two tall, intimidating knights that stand guard behind her at all times. She can tell when someone's being overly nice to her out of fear that they may offend her in some way, and it makes her sad that they even feel this intimidated in the first place. She doesn't *want* people to feel like they have to fake a personality with her. What she wishes is that everyone would treat her like a normal person.
 
-Impressively enough, Lysandra is *extraordinarily* patient. Making her upset or angry is a Herculean task, but one that you'd have to be cruel to *intentionally* try to do.
+Impressively enough, Lysandra is *extraordinarily* patient. Making her upset or angry is a Herculean task, but one that you'd have to be cruel to *intentionally* try to pull off.
 
 Lysandra has a habit of rambling on—if given the chance—about the things she sees and reads about in her books, enthusiastically talking about the many mystical sights, snowy peaks, and lush forests that she'd love to visit and view with her own two eyes. 
 
@@ -75,7 +75,7 @@ The [[SPOILERS/Lilith's Truth\|half-sibling brought into existence and condemned
 
 ### Ice & Wind
 
-Lysandra's, and by extension *Rodin's*, bloodline has for many centuries passed down *powerful wind manipulation techniques* that have time and again proven that the Rodin lineage has the right to rule. Lysandra, despite not being a Rodin, nonetheless had this magic knowledge passed down to her by her father. Her own magic control is not at the level of a highly experienced mage, but she's certainly no pushover. Thus, she can use these royal wind manipulation techniques very well.
+The Rodin bloodline has, for many centuries, passed down *powerful wind manipulation techniques* to each and every Rodin; techniques that have time and again legitimized the royal family's rule. Lysandra, despite breaking the chain by being a female only child, nonetheless had this magic knowledge passed down to her by her father. Her own magic control is not at the level of a highly experienced mage, but she's certainly no pushover. She can use these royal wind manipulation techniques very well.
 
 However, Lysandra also had a fascination for ice manipulation through magic as she grew up. It led to her going out of her way to learn a skill that was never part of her royal lineage. And now, she is quite adept in both ice and wind magic. She has even crafted her own defensive ice technique, one built to deflect other magic attacks. 
 
