@@ -1,9 +1,10 @@
 ---
 publish: true
-created: 2026-02-12T22:34:36.000-06:00
-modified: 2026-02-12T21:46:17.255-06:00
+created: 2026-02-19T12:51:14.000-06:00
+modified: 2026-02-23T20:46:51.296-06:00
 cssclasses: ""
 ---
+
 
 ### Loria, 20XX
 
@@ -187,7 +188,7 @@ She has a dagger holstered on both hips, and her tail flicks with sharp movement
 
 Three of the mages nod and step forward, standing in a triangular formation around the entrance. In a smooth motion, they thrust their arms forward, their hands opening with their palms pointed at the rock blocking the entrance. An ethereal, glowing light flares from their hands.
 
-A faint rumbling soon emanates from the entrance. The earth beneath the team starts to quake ever so slightly. A young woman stands just a few feet to the left of Leilanna, wearing a green cowl and light armor, and sporting black rabbit ears atop her head.
+A faint rumbling soon emanates from the entrance. The earth beneath the team starts to quake ever so slightly. A young woman stands just a few feet to the left of Leilanna, wearing a green cowl and light armor, and sporting black rabbit ears atop her head. One ear twitches lightly as she munches on a delectable fruit & nut bar, humming to herself a little.
 
 Aisha.
 
@@ -205,13 +206,17 @@ Aisha puts a hand on her hip, furrowing her brow and letting out a light sigh.
 
 Leilanna's sensitive ears catch Aisha's words. She shoots a glance at her, raising an eyebrow and narrowing her eyes.
 
-“Is it not enough that you could obliterate all of this rock with your own two feet?”
+“Is it not enough that you could obliterate all this rock with your own two feet?”
 
 Aisha looks at Leilanna, unsurprised that she was heard. She merely shrugs, lightly tapping the ground with her foot.
 
 “Well, sure, it is, but... It’d be nice to have a break from having to get physical for a change… My legs *do* get tired, you know,” she says, her response a bit too casual for Leilanna's liking.
 
-“Right…” says Leilanna, simply turning her gaze back to the shifting rock with a barely concealed exasperation. Sometimes she can't tell if Aisha is too naive, too carefree, or both.
+“Right…” says Leilanna, simply turning her gaze back to the shifting rock with a barely concealed exasperation. 
+
+*How many times has Aisha envied others? How many times has she neglected to appreciate her own strength? How many times has she acted so carefree? Why is it that it seems to bother no one else but **me?***
+
+The thoughts run through Leilanna's head. She ultimately dismisses them, not wanting to distract herself from the task at hand.
 
 The mages continue their masterful work. Each rock layer cracks and recedes one after the other, until finally exposing the group of tightly packed boulders–the next obstacle to get through. The mouth of the cavern has opened up more, the entrance increasing in size.
 
